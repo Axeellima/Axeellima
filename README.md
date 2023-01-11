@@ -1,5 +1,5 @@
 <h1 align="center">Hi Friend 👋, I'm Axel lima</h1>
-<h3 align="center">Currently I am Front-end developer and back-end student at <a href="https://kenzie.com.br/?trk_src=g&trk_cmp=15853756022&trk_grp=137371409172&trk_ad=574454391791&trk_kw=kenzie%20academy&utm_term=kenzie%20academy&utm_campaign=INSC-PER-2022-TERMOS-MARCA-SEARCH&utm_source=adwords&utm_medium=ppc&hsa_acc=2166776305&hsa_cam=15853756022&hsa_grp=137371409172&hsa_ad=574454391791&hsa_src=g&hsa_tgt=aud-1371784716651:kwd-392539756225&hsa_kw=kenzie%20academy&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gclid=Cj0KCQjw5ZSWBhCVARIsALERCvzjbrh1GPo7YPjoAgLAA75UcAP-YlGq8eeDyMdHR0o4OcRkNfRK-cYaArTsEALw_wcB">Kenzie Academy </a></h3>
+<h3 align="center">Currently I am Full Stack Developer</h3>
 
 - 🌱 I’m currently learning **Python**
 
