@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **React, TypeScript, JavaScript, Node**
+- 💬 Ask me about **React, TypeScript, JavaScript, Node, MongoDB**
 
 - 📫 Contact me **axeellima@gmail.com**
 
