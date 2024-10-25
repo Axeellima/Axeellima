@@ -1,9 +1,9 @@
 <h1 align="center">Hi Friend 👋, I'm Axel lima</h1>
 <h3 align="center">Currently I am Full Stack Developer</h3>
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **MORE ABOUT REACT NATIVE**
 
-- 💬 Ask me about **React, TypeScript, JavaScript, Node, Python, MongoDB**
+- 💬 Ask me about **React, React Native, TypeScript, Node**
 
 - 📫 Contact me **axeellima@gmail.com**
 
