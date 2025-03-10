@@ -1,7 +1,7 @@
 <h1 align="center">Hi Friend 👋, I'm Axel lima</h1>
-<h3 align="center">Currently I am Full Stack Developer</h3>
+<h3 align="center">Currently I am Mobile Developer</h3>
 
-- 🌱 I’m currently learning **MORE ABOUT REACT NATIVE**
+- 🌱 I’m currently learning **MORE ABOUT FLUTTER AND MOBILE DEVELOPMENT**
 
 - 💬 Ask me about **React, React Native, TypeScript, Node**
 
